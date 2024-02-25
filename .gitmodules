@@ -1,0 +1,12 @@
+[submodule "1ReliableScalableAndMaintainableApplications"]
+	path = 1ReliableScalableAndMaintainableApplications
+	url = git@github.com:c4arl0s/1ReliableScalableAndMaintainableApplications.git
+[submodule "2DataModelsAndQueryLanguages"]
+	path = 2DataModelsAndQueryLanguages
+	url = git@github.com:c4arl0s/2DataModelsAndQueryLanguages.git
+[submodule "3StorageAndRetrieval"]
+	path = 3StorageAndRetrieval
+	url = git@github.com:c4arl0s/3StorageAndRetrieval.git
+[submodule "4EncodingAndEvolution"]
+	path = 4EncodingAndEvolution
+	url = git@github.com:c4arl0s/4EncodingAndEvolution.git

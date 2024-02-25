@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#go-back-to-overview)
 
 1. [x] [1. Reliable, Scalable, and Maintainable Applications](https://github.com/c4arl0s/1ReliableScalableAndMaintainableApplications#1-reliable-scalable-and-maintainable-applications---content) 
